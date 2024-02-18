@@ -8,7 +8,7 @@ Browse to localhost:3000
 ## Bugs
 
 There appears to be a refresh issue when changing routes on Safari. Perhaps I have an out of date version, but this has been a reported bug of Node.js.  
-When launching using `node ./bin/www` I appear to get the following warning: Invalid 'main' field in '/Users/mac/Documents/GitHub/spring22-final-project-MitchellMac525/node_modules/string-sanitizer/package.json' of 'node.js'.
+When launching using `node ./bin/www` I appear to get the following warning: Invalid 'main' field in 'package.json' of 'node.js'.
 
 ## Features
 
